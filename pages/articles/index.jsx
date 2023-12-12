@@ -7,12 +7,15 @@ import Color 	from '../../components/utils/page.colors.util'
 import colors 		from '../../content/articles/_colors.json'
 import settings 	from '../../content/_settings.json'
 
+import ComingSoon from '../../components/sections/comingsoon'
+
 //
 export default function Articles({ mediumArticles }) {
 	return (
 		<>
 			<Color colors={colors} />
-			<Recent mediumArticles={mediumArticles}/>
+			<ComingSoon />
+			{/* <Recent mediumArticles={mediumArticles}/> */}
 		</>
 	)
 }

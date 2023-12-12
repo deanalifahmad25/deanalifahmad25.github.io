@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "const Dean = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,21 +11,21 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Dean Alif Ahmad.",
+		"usp": "I build something impactful and better."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "I am a Full-Stack Web Developer with many experiences and backgrounds — constantly driven by a passion for lifelong learning and the desire to leave a lasting impact.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
-			"leaveSite": false
+			"url": "mailto:deanalifahmad49@gmail.com",
+			"leaveSite": "true"
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://www.linkedin.com/in/dean-alif-ahmad-bb6a9a1aa/",
 			"leaveSite": "true"
 		}
 	}

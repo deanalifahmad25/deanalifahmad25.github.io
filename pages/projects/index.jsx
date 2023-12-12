@@ -7,13 +7,16 @@ import Color  from '../../components/utils/page.colors.util'
 import settings from '../../content/_settings.json'
 import colors from '../../content/projects/_colors.json'
 
+import ComingSoon from '../../components/sections/comingsoon'
+
 //
 export default function Projects({ user, repos }) {
 	return (
 		<>
 		<Color colors={colors} />
-		<FeaturedProjects />
-		<GitRecentProjects user={user} repos={repos} />
+		<ComingSoon />
+		{/* <FeaturedProjects />
+		<GitRecentProjects user={user} repos={repos} /> */}
 		</>
 	)
 }

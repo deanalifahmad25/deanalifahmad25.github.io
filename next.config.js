@@ -12,11 +12,6 @@ module.exports = {
 			},
 			{
 				protocol: 'https',
-				hostname: '**.vercel.app',
-				pathname: '?app=portfolio-theme-jqe0jhmif-atlamors.vercel.app'
-			},
-			{
-				protocol: 'https',
 				hostname: '**.shields.io',
 				pathname: '/badge/**'
 			},
