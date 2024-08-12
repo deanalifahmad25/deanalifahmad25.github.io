@@ -86,7 +86,7 @@ export default function Career() {
 								<h5>Bandung, West Java, Indonesia</h5>
 							</span>
 							<p>
-								I am responsible for optimizing the UI/UX and SEO of the company's website and supporting other Divisions by providing Website needs.
+								I am responsible for optimizing the UI/UX and SEO of the company&apos;s website and supporting other Divisions by providing Website needs.
 							</p>
 							<Badges list={stack3} block="stack" fullContainer="fullContainer"/>
 						</div>
