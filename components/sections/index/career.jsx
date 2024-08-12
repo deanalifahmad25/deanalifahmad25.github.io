@@ -69,8 +69,9 @@ export default function Career() {
 									<h5>Bandung, West Java, Indonesia</h5>
 								</span>
 								<p>
-								I work with clients independently or in partnership with agencies or other companies to create websites and applications that meet their needs.
+									I work with clients independently or in partnership with agencies or other companies to create websites and applications that meet their needs.
 								</p>
+								<Badges list={stack2} block="stack" fullContainer="fullContainer"/>
 							</div>
 							<div className={career.positionAlt}></div>
 						</div>
@@ -87,7 +88,7 @@ export default function Career() {
 							<p>
 								I am responsible for optimizing the UI/UX and SEO of the company's website and supporting other Divisions by providing Website needs.
 							</p>
-							<Badges list={stack2} block="stack" fullContainer="fullContainer"/>
+							<Badges list={stack3} block="stack" fullContainer="fullContainer"/>
 						</div>
 						<div className={career.companyAlt}></div>
 					</article>
@@ -112,6 +113,8 @@ const fullStack	= [
 	{ key: 'postgresql', 	name: 'PostgresSQL', 		type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+	{ key: 'linux', 		name: 'Linux', 				type: 'devicon' },
+	{ key: 'putty', 		name: 'Putty', 				type: 'devicon' }
 ]
 
 const stack	= [
@@ -124,12 +127,17 @@ const stack	= [
 	{ key: 'bootstrap', 	name: 'Bootstrap', 			type: 'devicon' },
 	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
-	{ key: 'digitalocean', 	name: 'Digital Ocean', 		type: 'devicon' },
+	{ key: 'digitalocean', 	name: 'Digital Ocean', 		type: 'devicon' }
 ]
 
 const stack2	= [
 	{ key: 'figma', 		name: 'Figma', 				type: 'devicon' },
+	{ key: 'wordpress', 	name: 'Wordpress', 			type: 'devicon' }
+]
+
+const stack3	= [
+	{ key: 'figma', 		name: 'Figma', 				type: 'devicon' },
 	{ key: 'wordpress', 	name: 'Wordpress', 			type: 'devicon' },
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
-	{ key: 'trello', 		name: 'Trello', 			type: 'devicon' },
+	{ key: 'trello', 		name: 'Trello', 			type: 'devicon' }
 ]

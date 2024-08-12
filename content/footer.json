@@ -1,51 +1,37 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+			"person": "Andrew Nelson - UX and Full Stack",
+			"link": "https://github.com/atlamors",
+			"note": "Steal open-source theme! Its free 🥰"
 		},
 		{ 
 			"person": "Vercel - Platform",
 			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"note": "Free Host for your own Next.js project"
 		}
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "Dean Alif Ahmad - Portfolio Website",
+			"link": "https://deanalifahmad.github.io/",
+			"note": "Here’s my initial portfolio version—it’s great too! 😄"
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
+			"url": "https://github.com/deanalifahmad25",
+			"icon": "github"
 		},
 		{
 			"url": "https://www.linkedin.com/in/dean-alif-ahmad-bb6a9a1aa/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/deanalifahmad25",
-			"icon": "github"
+			"url": "https://www.instagram.com/deanalifahmad",
+			"icon": "instagram"
 		}
 	]
 }

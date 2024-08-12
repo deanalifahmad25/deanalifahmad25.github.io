@@ -17,13 +17,13 @@ export default function HomePage() {
 		<>
 			<Color colors={colors} />
 			<Hero />
-			<ComingSoon />
-			
-			{/* <Looking /> */}
-			{/* <FeaturedProjects /> */}
+			<FeaturedProjects />
 			{/* <About /> */}
-			{/* <Technical /> */}
-			{/* <Career /> */}
+			<Technical />
+			<Career />
+			<Looking />
+
+			{/* <ComingSoon /> */}
 		</>
 	);
 }

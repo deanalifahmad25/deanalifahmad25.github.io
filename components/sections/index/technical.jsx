@@ -53,7 +53,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Technologies I love to build with" 
-							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
+							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. I’m always up for a challenge, no matter how difficult it may seem."
 							list={tech} 
 							block="tech"
 							fullContainer="fullContainer" 
@@ -99,4 +99,6 @@ const tech	= [
 	{ key: 'postgresql', 	name: 'PostgresSQL', 		type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+	{ key: 'linux', 		name: 'Linux', 				type: 'devicon' },
+	{ key: 'putty', 		name: 'Putty', 				type: 'devicon' }
 ]

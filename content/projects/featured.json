@@ -1,7 +1,7 @@
 [
 	{
 		"project": "TRANSMEDIC SIMRS V3.",
-		"url": "https://simrs.rsudlm.com:8085/",
+		"url": "/",
 		"repo": "Private",
 		"descriptionTitle": "Hospital Information Management System",
 		"description": "with improved features and intuitive solutions for better handling and user-friendly.",
@@ -28,7 +28,7 @@
 	},
 	{
 		"project": "TRANSMEDIC SIMRS V2.",
-		"url": "http://rsbsaonline.com/app/Login",
+		"url": "/",
 		"repo": "Private",
 		"descriptionTitle": "Hospital Information Management System",
 		"description": "with streamlined solutions for complex workflows and enhanced patient management.",

@@ -3,13 +3,6 @@
 	"logo": "",
 	
 	"username": {
-		"github": "deanalifahmad25",
-		"medium": "@--andrewnelson"
-	},
-
-	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"github": "deanalifahmad25"
 	}
 }
